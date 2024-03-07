@@ -1,0 +1,22 @@
+h1{
+    margin-top: 200px;
+    margin-left: 610px;
+    margin-right: 400px;
+    /* margin-bottom: 300px;     */
+    color: white;
+}
+body{
+    background-color: black;
+}
+.clock{
+    background: white;
+    color:black;
+   border: solid red;
+   align-items: center;
+   justify-content: center;
+   display: flex;
+    margin-top: 20px;
+        margin-left: 620px;
+        margin-right: 700px;
+        /* margin-bottom: 500px; */
+}
